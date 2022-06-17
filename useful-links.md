@@ -9,6 +9,7 @@
 
 ### Design Resources
 - [Design Resources For Developers- Brad Traversy](https://github.com/bradtraversy/design-resources-for-developers)
+- [Box Shadow Examples](https://getcssscan.com/css-box-shadow-examples)
 
 ### Support or Contact
 
